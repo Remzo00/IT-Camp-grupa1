@@ -33,7 +33,7 @@ const fruits = ["Banana", "Orange", "Apple", "Mango", "Apple"];
 console.log(fruits.sort());
 
 //TIPOVI PODATAKA
-//SLOZENI TIPOVI PODATAKA
+//SLOZENI TIPOVI PODATAKA nam omogucavaju da smestimo vise vrednosti u jednu promenljivu
 //Objekat
 //Niz
 //Funkcija
