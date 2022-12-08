@@ -29,3 +29,6 @@ const oduzmi = (a, b) => {
   console.log(a - b);
 };
 oduzmi(10, 5);
+
+//Nestovani nizovi
+[][[]][[[]]];
