@@ -32,11 +32,13 @@ const validacija = () => {
   }
 };
 
-const novo = document.createElement("p");
+//Nodes
+const newParagraf = document.createElement("p");
 const text = document.createTextNode("Novi paragraf");
-novo.appendChild(text);
-const element = document.getElementById("container");
-element.append(novo);
+newParagraf.appendChild(text);
+
+const newElement = document.getElementById("container");
+newElement.appendChild(newParagraf);
 
 //Napraviit login formu, ulepsati je u css i napraviti validaciju
 //BONUS: jos jedno polje potvrdi sifru
