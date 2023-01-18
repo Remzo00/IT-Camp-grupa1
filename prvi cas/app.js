@@ -2,7 +2,7 @@ console.log("pozdrav iz konzole");
 // alert("pozdrav");
 // document.write("Pozdrav");
 //Komentar
-console.log("proba")
+console.log("Opet proba")
 
 console.log(5 + 5);
 
